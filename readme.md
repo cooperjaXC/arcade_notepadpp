@@ -18,7 +18,8 @@ Arcade\_NPP is licensed under The [MIT License](http://opensource.org/licenses/m
 
 ## Features
 
-Arcade\_NPP provides basic syntax highlighting. Arcade\_NPP is not a full lexer for Arcade and does *not* correctly highlight all elements of Arcade markup specification. 
+* Arcade\_NPP provides basic syntax highlighting. Arcade\_NPP is not a full lexer for Arcade and does *not* correctly highlight all elements of Arcade markup specification. 
+* Arcade\_NPP offers a dark theme compatible with the [Dracula Dark Theme](https://draculatheme.com/notepad-plus-plus). Select the `arcade_dark_theme.xml` in step 3 above.
 
 ## Highlighted element:
 
